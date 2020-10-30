@@ -1,0 +1,72 @@
+I"� <p>I recently returned from <a href="naacl2018.org">NAACL 2018</a>, where I presented a short paper on language variation and political identity co-authored with <a href="https://www.cc.gatech.edu/~ypinter3/">Yuval Pinter</a> and my advisor <a href="https://www.cc.gatech.edu/~jeisenst/">Jacob Eisenstein</a>. 
+Check out the full paper <a href="https://arxiv.org/pdf/1804.05088.pdf">here</a> and the slides <a href="https://github.com/ianbstewart/catalan/blob/master/writing/NAACL_2018_slides.pdf">here</a>!
+The TL;DR is that local languages such as Catalan are likely associated with political identity, and that code-switching in political situations may have different constraints than typical frameworks such as <a href="https://en.wikipedia.org/wiki/Audience_design">audience design</a> would predict.</p>
+
+<h2 id="papers-to-look-out-for">Papers to look out for</h2>
+<p>It was my first time at NAACL and I was overwhelmed by the diversity of topics, ranging from <a href="http://www.aclweb.org/anthology/N18-1097">text classification</a> to <a href="https://arxiv.org/pdf/1804.07331.pdf">part-of-speech tagging</a> to <a href="http://www.aclweb.org/anthology/N18-1004">computational typology</a> (I wish we had learned about this topic in undergrad linguistics!).
+In terms of takeaways, I mostly stuck to CSS as my “home base” and explored a few other talks as necessary.</p>
+
+<h3 id="computational-social-science">Computational social science</h3>
+<p>This is my jam.
+I am most interested in quantitative sociolinguistics, which includes how people use language to achieve social goals and signal social identity.
+Here are some of the most interesting papers in that vein:</p>
+
+<ul>
+  <li><a href="http://www.aclweb.org/anthology/N18-4001">Alignment, acceptance, and rejection of group identities in online political discourse</a>
+Political arguments online generally go nowhere, right?
+Everyone accusing the other side of lying, murder, etc.
+But what happens when people actually listen to one another?
+The theory of linguistic alignment or <a href="https://en.wikipedia.org/wiki/Communication_accommodation_theory">accommodation</a> suggests that conversation participants who match each other linguistically are also synchronized in terms of group identity.
+This study analyzes political discourse on Twitter and demonstrates a clear tendency for pronoun alignment within <strong>and</strong> between political parties!
+More work needs to be done on what exactly pronoun alignment means (e.g. if they use “you” in response to me saying “you” is that alignment?) but the analysis is careful and clear.</li>
+  <li><a href="http://www.aclweb.org/anthology/W18-1601">Stylistic variation over 200 years of court proceedings according to gender and social class</a>
+One of the most basic things we know about linguistic style is the gender divide: men and women adopt language changes differently and employ stylistic markers differently depending on circumstances.
+We also know that socioeconomic class plays a role.
+What about the overlap?
+Using 200 years of court proceedings, Degaetano-Ortlieb shows that female defendants underwent an unusual split in style according to class.
+For instance, the upper-class women adopted a more “informational” style that included more concrete nouns and verbs, as compared to the more situational style of the lower-class women (more pronouns).
+Really nice use of information theory (e.g. entropy) to tackle social science questions!
+It’s also a nice example of how research can be oriented toward social justice: this kind of work can shed light on gender disparities in the courtroom and hopefully contribute to more investigation of inequality.</li>
+  <li><a href="http://www.aclweb.org/anthology/N18-1146">Deconfounded lexicon induction for interpretable social science</a>
+This one blew my mind.
+So when we’re trying to make predictions from text data like school course reviews, we have to be careful that the conclusions we draw aren’t influenced by confounding factors.
+If we see that the word “computer” is a strong predictor for positive course reviews, that could just be a confound in the review corpus that tends toward computer science, rather than some inherent quality of course review language.
+This study presents two neural models that explicitly eliminate potential confounds in the prediction task, so that the text features are actually interpretable!
+This pulls out useful words from course reviews such as “research” and “instructor” rather than “summer” and “optimization.”
+I think that causality is super interesting and the more clever ways that we can approach it, the better.</li>
+</ul>
+
+<h3 id="tutorials">Tutorials</h3>
+
+<p>Outside of papers, I was also lucky enough to attend some tutorials.</p>
+
+<p>One of the tutorials covered <a href="https://sites.google.com/view/srnlp">socially responsible practices</a> in NLP data collection, which is a topic that is often swept under the rug by study authors.
+For instance, if you use Twitter data in your study, to what potential risks are you subjecting your participants (e.g. deanonymization)?
+Is there a fair minimum wage for Mechanical Turk Workers, and for that matter how much should we trust the data generated by Turkers?
+Maybe the biggest question that was circulated was the goal of socially impactful research: how can NLP research focus less on improving predictive performance and more on building systems to highlight social inequality, improve knowledge sharing, and actually help people?
+One of the case studies was the <a href="http://www.pnas.org/content/pnas/114/25/6521.full.pdf">Stanford police officer body camera study</a>, which demonstrated that police officers were disproportionately rude to black drivers during traffic stops.
+Really provocative and open discussion.</p>
+
+<p>Another fascinating talk by <a href="https://natschluter.wordpress.com/">Natalie Schluter</a> at the <a href="http://www.winlp.org/winlp-2018-workshop/winlp-18-program/">WiNLP workshop</a> attacked the issue of gender diversity in NLP.
+Why is it that despite our “best efforts” the glass ceiling still seems intact?
+Schluter showed through rigorous analysis of the citation network that the problems can happen early in the academic lifecycle, such as female mentees not receiving the same support as male mentees.
+I expected to feel depressed after listening but I actually felt energized!
+The more light that we shed on these issues, the stronger we will be as a research collective.</p>
+
+<h3 id="community-notes">Community notes</h3>
+<p>Just like I did at NWAV, at NAACL I tried to pay attention to the community and the overall culture.
+Putting on my anthopologist hat again!</p>
+
+<p>In most of my conversations, I got the sense of language as a problem to be solved, rather than a phenomenon to be explored.
+This was obvious from several of the keynotes, including two discussions of chat-bots that really boiled down to “humans are complicated problems that we should solve.”
+On the positive side, there was definitely the sense that more effective models were those that incorporated cognitive/linguistic insight (e.g. building separate representations for <a href="http://www.aclweb.org/anthology/N18-1204">characters in stories</a>).
+On the flip side, I think that computational linguists have a lot to offer the study of language besides building ever-better models that often appear to be riffs on prior work (e.g. <a href="https://arxiv.org/pdf/1802.05365.pdf">the best paper</a>).</p>
+
+<p>Maybe I’m being too harsh.
+If we accept that computational linguistics is a <a href="https://mitpress.mit.edu/books/sciences-artificial">science of the artificial</a>, then the end goals should be engineering, deployment, real-world applications, etc.
+But if we want to reach a better understanding of how humans communicate and how to model that process quantitatively, then we need to start rethinking our research agenda.</p>
+
+<p>All that being said, I did have some great conversations about research in general.
+Good feedback all around and insightful questions on what kinds of social questions that language variation can address.
+I got re-energized to dive back into my current work on geographic modeling (stay tuned!) and start working toward my thesis proposal next year!</p>
+:ET

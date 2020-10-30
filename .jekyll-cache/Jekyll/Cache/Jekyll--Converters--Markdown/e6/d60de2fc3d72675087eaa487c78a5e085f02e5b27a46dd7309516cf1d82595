@@ -1,0 +1,115 @@
+I"P<div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/thesis_submission/">GT Thesis Submission</a></h1>
+
+      <div class="entry">
+        <p>I recently submitted my PhD thesis. 
+Please hold your applause.</p>
+
+      </div>
+
+      <a href="/thesis_submission/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/queer_NLP/">Queer NLP - stand and be counted</a></h1>
+
+      <div class="entry">
+        <p><strong>TL;DR: I want marginalized people and communities to be recognized by those who design AI systems, and for those people’s needs to be clearly communicated and understood.</strong></p>
+
+      </div>
+
+      <a href="/queer_NLP/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/NAACL/">NAACL 2018</a></h1>
+
+      <div class="entry">
+        <p>I recently returned from <a href="naacl2018.org">NAACL 2018</a>, where I presented a short paper on language variation and political identity co-authored with <a href="https://www.cc.gatech.edu/~ypinter3/">Yuval Pinter</a> and my advisor <a href="https://www.cc.gatech.edu/~jeisenst/">Jacob Eisenstein</a>. 
+Check out the full paper <a href="https://arxiv.org/pdf/1804.05088.pdf">here</a> and the slides <a href="https://github.com/ianbstewart/catalan/blob/master/writing/NAACL_2018_slides.pdf">here</a>!
+The TL;DR is that local languages such as Catalan are likely associated with political identity, and that code-switching in political situations may have different constraints than typical frameworks such as <a href="https://en.wikipedia.org/wiki/Audience_design">audience design</a> would predict.</p>
+
+      </div>
+
+      <a href="/NAACL/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/replication-studies/">Replication studies</a></h1>
+
+      <div class="entry">
+        <p>As part of a class in <a href="https://github.com/jacobeisenstein/gt-css-class">computational social science</a>, my friend <a href="https://www.cc.gatech.edu/~ypinter3/">Yuval</a> and I just wrapped up a short replication study relating to politics and language variation. We replicated the main findings of <a href="http://www.aclweb.org/anthology/E17-1116">Shoemark et al. (2017) “Aye or naw,”</a> with a twist: instead of focusing on variation between Scots and English, we looked at Spanish versus Catalan. You can check out preliminary results <a href="https://docs.google.com/presentation/d/1L4wNoTXDCysaQ65QYUJ_Y7Za8rULAdy_xrnjqZbQkek/edit?usp=sharing">here</a>.</p>
+
+      </div>
+
+      <a href="/replication-studies/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/NWAV/">NWAV 2017</a></h1>
+
+      <div class="entry">
+        <p>I’ve just returned from <a href="https://english.wisc.edu/nwav46/">NWAV 2017</a>, a conference centered around language variation and change. Although I’m technically focused on social computing, my research looks at situations of language change in online communities, like what makes certain lexical innovations survive longer than others. In the work I presented at NWAV (<a href="../docs/NWAV_2017_poster.pdf">poster here</a>), I found that lexical innovations on Reddit are more likely to succeed when they have higher dissemination among social and linguistic contexts. Here is photographic evidence of my presentation, documented by <a href="https://emilyraesabo.squarespace.com/">Emily Sabo</a>!</p>
+
+      </div>
+
+      <a href="/NWAV/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/reading_notes/">Reading notes</a></h1>
+
+      <div class="entry">
+        <p>This summer, I’ve been doing some reading on social science research methods. That topic is obviously very broad, but I wanted to get a better sense of “how to think like a social scientist” rather than “how to think like a sociolinguist.” I’ve been doing sociolinguistics for so long (6 years?!) that I’ve sort of gotten stuck in a bubble about how to study social phenomena, and the books that I’ve read so far have done a nice job at providing a birds-eye view of quantitative social science methods that I’ve been missing. I’m hosting the notes <a href="https://github.com/ianbstewart/social_science_methods_readings">here</a> if you’re interested!</p>
+
+      </div>
+
+      <a href="/reading_notes/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/context2/">What does "context" mean? Part two</a></h1>
+
+      <div class="entry">
+        <p>As I mentioned last time, my current work is concerned with how linguistic and social context influence the likelihood of a new word’s adoption. Last time I talked about semantic context as the popularity of a word’s “nearest neighbors” and how that might play a role in word adoption.</p>
+
+      </div>
+
+      <a href="/context2/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/context1/">What does "context" mean? Part one</a></h1>
+
+      <div class="entry">
+        <p>My current research is concerned with the relationship between the social and semantic context of lexical innovations and their likelihood of adoption in the online community Reddit. The innovation <a href="http://www.urbandictionary.com/define.php?term=Fleek&amp;defid=8099629">“fleek”</a> gained success due to its restricted context, i.e. the phrase <a href="https://www.youtube.com/watch?v=XrTVMXxop3o">“on fleek”</a>, but this might be a rarity compared to most innovations that might gain success as a result of being used in a wide variety of contexts. Unlike “fleek,” the intensifier <a href="http://www.urbandictionary.com/define.php?term=AF">“af”</a> (“as fuck”) seems to occur in a wide range of post-adjective contexts (“cool af”, “dope af”, etc.). Related to work on adoption of innovations like <a href="https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/21665/3/Kershaw%20rowe%20stacey%20ACM_proc.pdf">this</a> and <a href="http://publications.aston.ac.uk/28001/1/ELL_078_Grieve_Nini_Guo_final.pdf">this</a>, it seems like there is a nontrivial relationship between the linguistic context of a new word and the likelihood of that word being adopted by a community. But how do we study that relationship quantitatively? It’s not easy to come up with a universal definition of “context” apart from the generic <a href="http://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520">“company that you keep”</a> definition, and this still leaves a lot of room for interpretation.</p>
+
+      </div>
+
+      <a href="/context1/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/ICWSM/">ICWSM 2017</a></h1>
+
+      <div class="entry">
+        <p>From May 14-18, I recently attended the <a href="http://www.icwsm.org/2017/">International Conference for Web and Social Media</a> in Montreal to present my work on semantic change that I conducted during my internship at the <a href="http://www.pnnl.gov/">Pacific Northwest National Laboratory</a> during summer 2016. Check out the full paper <a href="https://arxiv.org/abs/1703.07012">here</a> and the poster <a href="http://ianbstewart.github.io/docs/ICWSM_2017_poster.pdf">here</a>!</p>
+
+      </div>
+
+      <a href="/ICWSM/" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET
